@@ -1,0 +1,3 @@
+HALLO Full stack dev...
+ini adalah pertamakalinya aku membuat sebuah projek yang bisa berjalan sangat bagus menggunakan python
+bagi yang kesusahan menggirim pesan secara masal ini adalah solusi terbaik untuk menyelesaikan permasalahan mu..
